@@ -82,7 +82,7 @@ body{
 /* header */
 .hero
 {
-    padding: 2rem;
+    padding-top: 2rem;
    margin: auto;
 }
 .hero-image
