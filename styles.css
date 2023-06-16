@@ -116,6 +116,14 @@ body{
 .of{
     background-color: var(--off-white);
 }
+.section-heading-inverted {
+    color: var(--primary-color);
+}
+.section p
+{
+    line-height: 1.5rem;
+    text-align: justify;
+}
 /* footer */
 .footer
 {
@@ -139,5 +147,9 @@ color: white;
 {
     font-weight: bold;
     font-size: large;
+}
+.heading-center
+{
+    text-align: center;
 }
 
